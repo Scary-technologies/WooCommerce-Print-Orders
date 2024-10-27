@@ -37,7 +37,7 @@
 - افزودن دکمه "پرینت سفارش" به عنوان یک اقدام دسته‌جمعی برای چندین گزارش سفارش.
 
 ### نویسنده
-[Your Name](https://github.com/Scary-technologies/WooCommerce-Print-Orders/)
+[PR-M](https://github.com/Scary-technologies/WooCommerce-Print-Orders/)
 
 ### لایسنس
 این افزونه تحت لایسنس [GPL](http://www.gnu.org/licenses/gpl-2.0.html) به صورت متن باز منتشر شده است.
